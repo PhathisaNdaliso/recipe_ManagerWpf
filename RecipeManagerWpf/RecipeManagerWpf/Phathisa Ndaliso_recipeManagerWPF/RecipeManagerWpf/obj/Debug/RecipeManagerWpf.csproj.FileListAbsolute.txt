@@ -1,0 +1,62 @@
+C:\Users\RC_Student_lab\source\repos\RecipeManagerWpf\bin\Debug\RecipeManagerWpf.exe.config
+C:\Users\RC_Student_lab\source\repos\RecipeManagerWpf\bin\Debug\RecipeManagerWpf.exe
+C:\Users\RC_Student_lab\source\repos\RecipeManagerWpf\bin\Debug\RecipeManagerWpf.pdb
+C:\Users\RC_Student_lab\source\repos\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\RecipeManagerWpf\obj\Debug\MainWindow.baml
+C:\Users\RC_Student_lab\source\repos\RecipeManagerWpf\obj\Debug\MainWindow.g.cs
+C:\Users\RC_Student_lab\source\repos\RecipeManagerWpf\obj\Debug\App.g.cs
+C:\Users\RC_Student_lab\source\repos\RecipeManagerWpf\obj\Debug\RecipeManagerWpf_MarkupCompile.cache
+C:\Users\RC_Student_lab\source\repos\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.g.resources
+C:\Users\RC_Student_lab\source\repos\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.Properties.Resources.resources
+C:\Users\RC_Student_lab\source\repos\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.csproj.GenerateResource.cache
+C:\Users\RC_Student_lab\source\repos\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.exe
+C:\Users\RC_Student_lab\source\repos\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.pdb
+C:\Users\RC_Student_lab\source\repos\RecipeManagerWpf\obj\Debug\App.baml
+C:\Users\RC_Student_lab\source\repos\RecipeManagerWpf\obj\Debug\AddRecipeWindow.baml
+C:\Users\RC_Student_lab\source\repos\RecipeManagerWpf\obj\Debug\AddRecipeWindow.g.cs
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\RecipeManagerWpf\bin\Debug\RecipeManagerWpf.exe.config
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\RecipeManagerWpf\bin\Debug\RecipeManagerWpf.exe
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\RecipeManagerWpf\bin\Debug\RecipeManagerWpf.pdb
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\RecipeManagerWpf\obj\Debug\MainWindow.baml
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\RecipeManagerWpf\obj\Debug\AddRecipeWindow.baml
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\RecipeManagerWpf\obj\Debug\App.baml
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\RecipeManagerWpf\obj\Debug\MainWindow.g.cs
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\RecipeManagerWpf\obj\Debug\AddRecipeWindow.g.cs
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\RecipeManagerWpf\obj\Debug\App.g.cs
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\RecipeManagerWpf\obj\Debug\RecipeManagerWpf_MarkupCompile.cache
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.g.resources
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.Properties.Resources.resources
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.csproj.GenerateResource.cache
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.exe
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.pdb
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Desktop\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\bin\Debug\RecipeManagerWpf.exe.config
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Desktop\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\bin\Debug\RecipeManagerWpf.exe
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Desktop\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\bin\Debug\RecipeManagerWpf.pdb
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Desktop\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Desktop\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\MainWindow.baml
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Desktop\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\MainWindow.g.cs
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Desktop\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\App.g.cs
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Desktop\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\RecipeManagerWpf_MarkupCompile.cache
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Desktop\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.g.resources
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Desktop\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.Properties.Resources.resources
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Desktop\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.csproj.GenerateResource.cache
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Desktop\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Desktop\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.exe
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Desktop\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.pdb
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\MainWindow.baml
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\MainWindow.g.cs
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\App.g.cs
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\RecipeManagerWpf_MarkupCompile.cache
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.g.resources
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.Properties.Resources.resources
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.csproj.GenerateResource.cache
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.exe
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\obj\Debug\RecipeManagerWpf.pdb
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\bin\Debug\RecipeManagerWpf.exe.config
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\bin\Debug\RecipeManagerWpf.exe
+C:\Users\RC_Student_lab\OneDrive - ADvTECH Ltd\Documents\prog 2024\st10241408_Phathisa Ndaliso_PROG POE\RecipeManagerWpf\bin\Debug\RecipeManagerWpf.pdb

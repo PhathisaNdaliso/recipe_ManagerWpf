@@ -1,0 +1,20 @@
+﻿Food Groups and Calories
+The application categorizes ingredients into the following food groups:
+
+Fruits and Vegetables
+Proteins
+Grains
+Dairy
+Carbohydrates
+Fats and Sugars
+Drinks
+Examples of food groups and their calorie content:
+
+Fruits and Vegetables: Apples (52 cal/100g), Carrots (41 cal/100g)
+Proteins: Chicken breast (165 cal/100g), Lentils (116 cal/100g)
+Grains: Brown rice (123 cal/100g), Oats (68 cal/100g)
+Dairy: Milk (42 cal/100ml), Low-fat cheese (100 cal/100g)
+Carbohydrates: Bread (265 cal/100g), Potatoes (77 cal/100g)
+Fats and Sugars: Low-fat butter (100 cal/100g), Honey (300 cal/100g)
+Drinks: Orange juice (45 cal/100ml), Coffee (1 cal/100ml without sugar)
+Note: Calories for each ingredient should not exceed 300.

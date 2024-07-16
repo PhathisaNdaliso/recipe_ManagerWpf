@@ -1,0 +1,70 @@
+﻿User Manual for Recipe Application
+Table of Contents
+Introduction
+System Requirements
+Installation
+Using the Application
+Adding a Recipe
+Displaying Recipes
+Scaling a Recipe
+Resetting a Recipe
+Deleting a Recipe
+Filtering Recipes
+Support
+
+Introduction
+Welcome to the Recipe Application! This user-friendly application allows you to manage your recipes, including adding, displaying, scaling, resetting, deleting, and filtering them based on various criteria.
+
+System Requirements
+Windows 10 or later
+.NET Framework 4.7.2 or later
+
+Installation
+Download the Recipe Application Installer from the provided link.
+Run the Installer and follow the on-screen instructions.
+Once installed, launch the application from your desktop or start menu.
+
+***Using the Application***
+Adding a Recipe
+1.Navigate to the "Add Recipe" tab.
+2.Enter the recipe name in the "Recipe Name" text box.
+3.Enter the number of ingredients in the "Number of Ingredients" text box.
+4.Click on the "Add Ingredients" button.
+5.For each ingredient, fill in:
+* Name
+* Quantity
+* Unit
+* Calories
+* Select the Food Group from the dropdown
+6.Enter the steps for the recipe in the "Steps" text box.
+7.Click on the "Add Recipe" button to save the recipe.
+Displaying Recipes
+1.Navigate to the "Display Recipes" tab.
+2.Select a recipe from the "List of recipes".
+3.Click on "Display Selected Recipe" to view the details.
+Scaling a Recipe
+1.Navigate to the "Scale Recipe" tab.
+2.Select a recipe from the "Recipe" dropdown.
+3.Select a scaling factor from the "Scale Factor" dropdown.
+4.Click on "Scale Recipe" to view the scaled recipe in the text box below.
+Resetting a Recipe
+1.Navigate to the "Reset Recipe" tab.
+2.Select a recipe from the "Reset Recipe" dropdown.
+3.Click on "Reset Recipe" to restore the original quantities.
+Deleting a Recipe
+1.Navigate to the "Delete Recipe" tab.
+2.Select a recipe from the "Delete Recipe" dropdown.
+3.Click on "Delete Recipe" to delete the selected recipe.
+4.Click on "Delete All Recipes" to delete all recipes.
+Filtering Recipes
+1.Navigate to the "Display Recipes" tab.
+2.Enter the filter criteria in the "Filter" text box.
+3.Click on the appropriate filter button:
+* Filter by Ingredient
+* Filter by Food Group
+* Filter by Calories
+4.The filtered recipes will be displayed in the "Filtered Recipes" list box.
+
+Support
+For support or questions, please contact me at phathisandali05@gmail.com or visit my github :https://github.com/ST10241408/RecipeManagerWpf_POE-.git 
+
